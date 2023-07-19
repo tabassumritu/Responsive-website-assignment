@@ -51,5 +51,24 @@
         height: 560.331px;
         padding-left: 35px;
     }
+    /* banner section three */
+    
+        
+    
+    .banner-container-three{
+        padding-top: 1700px;
+        flex-direction: column;
+       
+    }
+    .small-img{
+        
+        width: 110px;
+        height: 160px;
+        
+        position: absolute;
+        bottom: -430%;
+        /* right;: 13% */
+    
+    }
 
 }
