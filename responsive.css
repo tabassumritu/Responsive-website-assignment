@@ -70,5 +70,9 @@
         /* right;: 13% */
     
     }
+    /* nine-button */
+    .button-container{
+        width: auto;
+    }
 
 }
