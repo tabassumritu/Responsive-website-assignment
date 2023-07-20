@@ -74,5 +74,10 @@
     .button-container{
         width: auto;
     }
+    .footer-container{
+    font-size: small;
+    margin: 0px;
+    }
+
 
 }

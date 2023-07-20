@@ -189,4 +189,48 @@
     margin: 150px;
 
 }
+/* footer */
+.footer-container{
+    
+    height: 50vh;
+    background-color: #0B0223;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    margin-top: 10%;
+}
+.footer-btn{
+    color: white;
+
+    
+}
+.fooooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    gap: 50px;
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+}
+.footer-three-icon{
+    font-size: 40px;
+    padding: 20px;
+}
+.fa-brands{
+    padding: 20px;
+}
+.footer-last{
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 16px;
+    padding-top: 0px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.60);
+    padding: 20px;
+}
+
+    
 
